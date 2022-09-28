@@ -27,5 +27,4 @@ export default App;
 const MyAppStyle = styled.div`
   background-color: #45476f;
   padding-bottom: 500px;
-  /* height: 100vh; */
 `
